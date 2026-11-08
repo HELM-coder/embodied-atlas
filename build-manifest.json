@@ -1,0 +1,47 @@
+{
+  "public_only": true,
+  "runtime": "static",
+  "scheduled_run_observed": false,
+  "counts": {
+    "works": 40,
+    "versions": 40,
+    "sources": 6
+  },
+  "files": [
+    {
+      "name": ".nojekyll",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "name": "app.js",
+      "bytes": 41987,
+      "sha256": "a546d212fb12ed338c6cf9887ddf41ff3e25419802fb0cd441915025b2b38794"
+    },
+    {
+      "name": "index.html",
+      "bytes": 3492,
+      "sha256": "7324742d8323ce153aff9e308120341d2fe23e21a240abb2597b18ebf5286b03"
+    },
+    {
+      "name": "mark.svg",
+      "bytes": 404,
+      "sha256": "5d0711c278da2c91d1a834e055267f1161a2f1b64089ce6679b688175ea8dddf"
+    },
+    {
+      "name": "public-data.js",
+      "bytes": 289289,
+      "sha256": "54e53f10f362de57aeb88e06d2a9c8054b2e4deade32e489abacc986b66e5385"
+    },
+    {
+      "name": "public-feed.json",
+      "bytes": 214010,
+      "sha256": "11437083eedb870c7f6a2938afa15b45a2bab9e3ceadf083dd40b94623fb0538"
+    },
+    {
+      "name": "styles.css",
+      "bytes": 21353,
+      "sha256": "71ed40fbc8bb6d629b8db0a3b54547cd19c6e270ddd69e519488e61678141943"
+    }
+  ]
+}
